@@ -1,0 +1,3 @@
+[submodule "subs_sub"]
+	path = subs_sub
+	url = https://github.com/d-watanabe-np/subs_sub.git
